@@ -1,6 +1,7 @@
 # main_gitdevfk
 
 
-let us see how this thing works ...
+# This GIT: https://github.com/sqldevfk/main_gitdevfk.git
 
-do jaja
+# Building my GIT
+# GIT1 OLA: https://github.com/sqldevfk/sql-server-maintenance-solution.git
